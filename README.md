@@ -6,10 +6,10 @@
 ### Full Stack Developer • SaaS/ERP Builder • Automation & Integrations
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hasnain8540">
     <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=hasnain8540&style=for-the-badge&color=0D1117" />
 </p>
 
 <p>
@@ -25,24 +25,6 @@
 - **SaaS Platforms** (subscriptions, roles, multi-tenant patterns, admin panels)
 - **Automation Tools** (workflows, messaging, integrations, performance monitoring)
 - **API Integrations** (payments, webhooks, third-party services)
-
----
-
-## 🧩 Featured Projects (ERP / SaaS)
-> Replace the links with your real repos or live demos.
-
-- **ERP / POS Suite** — modular POS + inventory + sales + reporting  
-  🔗 Repo: https://github.com/YOUR_USERNAME/your-erp-repo  
-  🌐 Demo: https://your-demo-link.com
-
-- **SaaS Automation Platform** — subscriptions, tokens, workflows, integrations  
-  🔗 Repo: https://github.com/YOUR_USERNAME/your-saas-repo  
-  🌐 Demo: https://your-demo-link.com
-
-- **API Integrations Toolkit** — secure payment + webhook handling + logs  
-  🔗 Repo: https://github.com/YOUR_USERNAME/your-integrations-repo
-
----
 
 ## 🛠 Tech Stack
 
@@ -82,6 +64,6 @@
 
 ## 🤝 Contact / Collaboration
 - Open to: **SaaS, ERP, automation, integrations**
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/hasnain8540
 
 ⭐ If you like what I build, consider starring a repo!
