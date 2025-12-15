@@ -1,69 +1,91 @@
-<!-- Premium Dark GitHub Profile README for Hasnain Aziz -->
+<!-- Sleek Dark GitHub Profile README | Hasnain Aziz -->
 
 <div align="center">
 
-# Hasnain Aziz  
-### Full Stack Developer • SaaS/ERP Builder • Automation & Integrations
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&fontAlign=50&fontAlignY=35&color=0:0D1117,100:1F6FEB&fontColor=E6EDF3&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS/ERP%20Builder%20%E2%80%A2%20Automation%20%26%20Integrations&descAlign=50&descAlignY=60" />
 
 <p>
   <a href="https://github.com/hasnain8540">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hasnain8540&style=for-the-badge&color=0D1117" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hasnain8540&style=for-the-badge&color=1F6FEB" />
 </p>
 
-<p>
-  Building scalable web apps end-to-end — clean UI, strong APIs, secure payments, and production-ready deployments.
+<!-- One-liner -->
+<p align="center">
+  I build <b>production-grade web systems</b> — clean UI, strong APIs, reliable automation, and scalable architecture.
 </p>
 
 </div>
 
 ---
 
-## 🚀 What I Build
-- **ERP / POS Systems** (inventory, sales, invoices, reporting, multi-branch)
-- **SaaS Platforms** (subscriptions, roles, multi-tenant patterns, admin panels)
-- **Automation Tools** (workflows, messaging, integrations, performance monitoring)
-- **API Integrations** (payments, webhooks, third-party services)
-
-## 🛠 Tech Stack
-
-**Backend:** PHP • Laravel • Node.js • REST APIs • Auth • Webhooks  
-**Frontend:** React • Next.js • HTML • CSS • Responsive UI  
-**Databases:** MySQL • PostgreSQL  
-**DevOps/Tools:** Git • Linux • PM2 • Docker (optional)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,js,ts,mysql,postgres,git,linux,docker&theme=dark" />
-</p>
+## ⚡ Focus
+- **SaaS / ERP engineering** (multi-module systems, roles, billing patterns)
+- **API integrations** (payments, webhooks, third-party services)
+- **Automation workflows** (messaging, jobs/queues, system monitoring)
+- **Performance & reliability** (logs, caching, DB optimization, deployments)
 
 ---
 
-## 📊 GitHub Analytics (Dark)
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,react,nextjs,html,css,mysql,postgres,git,linux,docker&theme=dark" />
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasnain8540&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain8540&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hasnain8540&theme=tokyonight&hide_border=true" height="170" />
+**Backend**: PHP • Laravel • Node.js • REST • Auth • Webhooks  
+**Frontend**: React • Next.js • Responsive UI  
+**Database**: MySQL • PostgreSQL  
+**Ops**: Linux • Git • PM2 • Docker
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Signal (Live)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/hasnain8540/output/github-contribution-grid-snake-dark.svg" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hasnain8540&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain8540&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=hasnain8540&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🤝 Contact / Collaboration
-- Open to: **SaaS, ERP, automation, integrations**
-- GitHub: https://github.com/hasnain8540
+## 🧠 Operating Principles
+- Write **maintainable code** (structure > shortcuts)
+- Ship **secure integrations** (auth, validation, rate limits, webhooks)
+- Prefer **measurable performance** (queries, caching, async jobs)
+- Keep UX **simple, fast, and consistent**
 
-⭐ If you like what I build, consider starring a repo!
+---
+
+## 🐍 Contribution Flow
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hasnain8540/hasnain8540/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Collaboration
+SaaS • ERP/POS • Automation • API Integrations • Performance Upgrades
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1F6FEB,100:0D1117" />
