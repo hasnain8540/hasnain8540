@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Umer
 
-<!--
-**hasnain8540/hasnain8540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💼 Working on POS / ERP / SaaS  
+🧠 Laravel | Node.js | React | DevOps  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Laravel, PHP
+- Node.js, Express
+- React, Next.js
+- MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourname
