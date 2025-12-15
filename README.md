@@ -76,7 +76,7 @@
 ## 🐍 Contribution Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hasnain8540/hasnain8540/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/hasnain8540/hasnain8540/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
