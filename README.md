@@ -1,12 +1,16 @@
-<!-- Sleek Dark GitHub Profile README | Hasnain Aziz -->
+<!-- Premium Dark GitHub Profile README | Hasnain Aziz -->
 
 <div align="center">
 
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&color=0D1117&fontColor=E6EDF3" />
-</p>
+<!-- Animated Header Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Hasnain%20Aziz&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS%2FERP%20Builder%20%E2%80%A2%20Automation%20%26%20Integrations&descAlignY=60&color=0:0D1117,100:1F6FEB&fontColor=E6EDF3" />
 
+<!-- Typing effect (animated) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=780&lines=Production-grade+web+systems;Scalable+APIs+%7C+Clean+UI+%7C+Reliable+Automation;Performance+%26+Security+First" />
+
+<br/>
+
+<!-- Badges -->
 <p>
   <a href="https://github.com/hasnain8540">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" />
@@ -20,10 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=hasnain8540&style=for-the-badge&color=1F6FEB" />
 </p>
 
-<!-- One-liner -->
-<p align="center">
-  I build <b>production-grade web systems</b> — clean UI, strong APIs, reliable automation, and scalable architecture.
-</p>
+<!-- Animated divider line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%" />
 
 </div>
 
@@ -86,6 +88,10 @@
 ### 🤝 Open to Collaboration
 SaaS • ERP/POS • Automation • API Integrations • Performance Upgrades
 
+<!-- Animated divider line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1F6FEB,100:0D1117" />
+<!-- Premium Footer Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1F6FEB,100:0D1117&text=Let%E2%80%99s%20Build%20Something%20Excellent&fontSize=24&fontColor=E6EDF3&fontAlignY=75" />
