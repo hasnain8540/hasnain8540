@@ -73,10 +73,8 @@
 
 ---
 
-## 🐍 Contribution Flow
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/hasnain8540/hasnain8540/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain8540&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
