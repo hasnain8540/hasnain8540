@@ -3,7 +3,9 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&color=0D1117&fontColor=E6EDF3" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&color=0D1117&fontColor=E6EDF3" />
+</p>
 
 <p>
   <a href="https://github.com/hasnain8540">
