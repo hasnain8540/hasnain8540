@@ -3,16 +3,16 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&fontAlign=50&fontAlignY=35&color=0:0D1117,100:1F6FEB&fontColor=E6EDF3&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS/ERP%20Builder%20%E2%80%A2%20Automation%20%26%20Integrations&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hasnain%20Aziz&color=0D1117&fontColor=E6EDF3" />
 
 <p>
   <a href="https://github.com/hasnain8540">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/hasnain8540/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khasnain313@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hasnain8540&style=for-the-badge&color=1F6FEB" />
